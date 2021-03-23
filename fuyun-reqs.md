@@ -26,6 +26,7 @@
 - If your project does not belong to any of the above categories, you do not need to prepare the application URL slide
 
 
+## Submission
 - Each team should submit their slides in the format of pdf. 
 - Only one upload is needed for each team. Please name your pdf file following the pattern: YourTeamNumber_demo.pdf. 
 - For example, 01_demo.pdf for team 1.
